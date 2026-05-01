@@ -1,5 +1,7 @@
-name = "sourav"
-age = 19
+score1 = 2 % 5
+score2 = 3 ** 3
+score3 = 2 ** 4
 
-print("my name is", name)
-print("my age is", age)
+print(score1)
+print(score2)
+print(score3)
