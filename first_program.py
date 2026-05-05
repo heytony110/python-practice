@@ -1,4 +1,4 @@
-balance = 2500.00
-rate = 0.02 
+def reverse_string(text):
+    return text[::-1]   
 
-print(balance + balance * rate)
+print(reverse_string("sourav"))
